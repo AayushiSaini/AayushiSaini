@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AayushiSaini/AayushiSaini/blob/main/Aayushi%20Saini.png)
 <h1 align="center">Hi 👋, I'm Aayushi Saini</h1>
 <h3 align="center">A passionate frontend developer and Android Developer from India</h3>
 <img align="right" width="400" src="https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d" alt="Image Loading">
