@@ -1,4 +1,4 @@
-![logo]()![img](https://github.com/AayushiSaini/AayushiSaini/assets/118258257/6d2256c2-0346-4cb6-9dda-c0855eb33dea)
+![]()![img](https://github.com/AayushiSaini/AayushiSaini/assets/118258257/6d2256c2-0346-4cb6-9dda-c0855eb33dea)
 
 <h1 align="center">Hi 👋, I'm Aayushi Saini</h1>
 <h3 align="center">A passionate frontend developer and Android Developer from India</h3>
